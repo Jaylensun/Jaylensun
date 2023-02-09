@@ -26,4 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+
+![Jaylensun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaylensun)
+
+### Page visitor counter
+![visitor counter](https://profile-counter.glitch.me/Yangyuanxin/count.svg)
