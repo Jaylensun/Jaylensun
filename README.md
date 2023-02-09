@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Jaylen.Sun 😄😄
+
+- 🔭 I’m currently working on ...
+
+  Embedded software development.
+
+- 🌱 I’m currently learning ...
+
+  MCU development, Linux drivers, applications, framework design ideas, etc.
+
+- 📫 How to reach me:
+
+  If you have any questions, you can contact me by adding WeChat:
 
 <!--
 **Jaylensun/Jaylensun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
